@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Nom du repository GitHub
+repository: NContant.github.io
+
+# Configuration pour les pages
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+
+# Paramètres de build
+markdown: kramdown
