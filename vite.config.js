@@ -11,7 +11,7 @@ export default defineConfig({
     assetsDir: '',
     rollupOptions: {
       input: {
-        main: './src/main.js'
+        main: './main-GV8ptCoH.js'
       }
     }
   }
